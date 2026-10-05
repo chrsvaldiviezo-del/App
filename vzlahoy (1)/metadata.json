@@ -1,0 +1,6 @@
+{
+  "name": "Concertación Informa",
+  "description": "Información verificada, noticias en tiempo real sobre Concertación Ciudadana, María Corina Machado, economía venezolana y buscador con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
